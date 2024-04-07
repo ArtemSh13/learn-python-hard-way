@@ -1,0 +1,7 @@
+print("Hello, world!")
+# print("Hello again!")
+print("I like to type this")
+print("Yippee! I'm typing!")
+print("It's fun")
+print("It's like 'magic'")
+print("I'd like to say it's awesome!")
