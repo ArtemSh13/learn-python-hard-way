@@ -1,0 +1,3 @@
+It's the first line
+It's the second
+And what is the number of this line? Right, it's three!
