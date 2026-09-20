@@ -1,6 +1,6 @@
 .idea/
 .DS_Store
 .pytest_cache/
-.venvs/
+.venv/
 */.pytest_cache/
-*/.venvs/
+*/.venv/
